@@ -46,7 +46,7 @@ Call Numbers should always be displayed with spaces, bolded on the first part.
 
 
 # V. eBooks
-RSS Feed (Get code from Chrysty)
+RSS Feed (Get code from Christy)
 
    ![EBSCO RSS Feed](media/rssebsco.png)
 
