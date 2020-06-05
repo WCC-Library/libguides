@@ -59,7 +59,11 @@ RSS Feed (Get code from Christy)
 ## Journals/pMags together
   ![journals and mags](media/journamags.png) 
 
-
+# VII. Keep Learning or Keeping Up With... (tab) - optional
+Examples:
+* [Anthropology](http://librarywp.whatcom.edu/home/anthropology/)
+* [Computer Science](http://librarywp.whatcom.edu/home/cs/)
+* [Economics](http://librarywp.whatcom.edu/home/econ/)
 
 <hr>
 <hr>
