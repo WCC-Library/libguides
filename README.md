@@ -74,6 +74,7 @@ Examples:
 # Developer Notes
 
 * [Example Guide to draw upon for Ro](https://ulib.iupui.edu/guides/libguides-best-practices)
+* [Exaple from Illinois](https://publish.illinois.edu/libraryweb/)
 
 # Database Training & Orientation Videos - Put these in "auth_dbs" posts.
 * eLibrary Training Video 
