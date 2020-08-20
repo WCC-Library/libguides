@@ -30,13 +30,9 @@ Call Numbers should always be displayed with spaces, bolded on the first part.
  ![art magazines](media/pmags.PNG) 
  
  
-# III. Reference Sources
-## H2 Reference Sources
-**Search these resources for background information**
+# III. Background Information (H2 or H3)
 * [icon name="film"] FilmsOnDemand: Eduction
 * [icon name="book"] Credo Topics: Geography 
-
-
 
 
 # IV. Featured Databases (if exists)
